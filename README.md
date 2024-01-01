@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kea-Roy Ong</h1>
 <a href="https://www.linkedin.com/in/kea-roy/"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<h3 align="left">I am an undergraduate student at Cornell University interested in ___ and I'm open to exploring other interesting fields too!</h3>
+<h3 align="left">I am an undergraduate student at Cornell University interested in AI/Machine Learning, Web Development, Algorithms, and Augmented Reality but I'm also open to exploring other interesting fields too!</h3>
 
 - 🔭 I’m currently working on **Winter Break Projects**
 - 🌱 I’m currently learning **React and TypeScript**
