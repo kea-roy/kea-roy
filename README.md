@@ -9,6 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **Winter Break Projects**
 - 🌱 I’m currently learning **React and TypeScript**
+- 🌐 Check out my portfolio website at **[https://kea-roy.github.io/](https://kea-roy.github.io/)**
 - :computer: Connect with me on **[LinkedIn](https://www.linkedin.com/in/kea-roy/)**
 - 📫 Contact me at **ko353@cornell.edu**
 
