@@ -7,8 +7,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/kea-roy/"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <h3 align="left">I am an undergraduate student at Cornell University interested in AI/Machine Learning, Web Development, Algorithms, and Augmented Reality but I'm also open to exploring other interesting fields too!</h3>
 
-- 🔭 I’m currently working on **Winter Break Projects**
-- 🌱 I’m currently learning **React and TypeScript**
+- 🔭 I’m currently focused on **Classes at Cornell**
+- 🌱 I’m currently learning **C++, PyTorch**
 - 🌐 Check out my portfolio website at **[https://kea-roy.github.io/](https://kea-roy.github.io/)**
 - :computer: Connect with me on **[LinkedIn](https://www.linkedin.com/in/kea-roy/)**
 - 📫 Contact me at **ko353@cornell.edu**
